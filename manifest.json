@@ -1,0 +1,25 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "Thesaurus Big Huge",
+  "description": "An extension that allows you to look-up any word from 'Big Huge Thesaurus'",
+  "developer_name": "Jonathan Visser",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "thes_kw",
+      "type": "keyword",
+      "name": "Thesaurus",
+      "description": "Thesaurus extension",
+      "default_value": "t"
+    }, {
+    "id": "api_key",
+    "type": "text",
+    "name": "API key for Big Huge Thesaurus",
+    "description": "Please go here to create your free API key: https://words.bighugelabs.com/account/getkey",
+    "default_value": ""
+  }
+  ]
+}
