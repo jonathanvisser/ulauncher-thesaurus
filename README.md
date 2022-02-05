@@ -4,7 +4,7 @@ Ulaunch extension to search Big Huge Thesaurus
 ## Description
 A plugin that allows you to look-up any word from "Big Huge Thesaurus" (http://words.bighugelabs.com). This is great if you do a lot of writing - allowing you to stay in flow whilst spicing up your language with Ulaunch's heads-up display.
 
-![img](https://github.com/jonathanvisser/ulauncher-thesaurus/raw/master/docs/thesaurus.gif)
+![img](https://github.com/jonathanvisser/ulauncher-thesaurus/raw/main/docs/thesaurus.gif)
 
 ## First things
 Please sign-up here for your own free API key: http://words.bighugelabs.com/api.php and enter your API key in the "Thesaurus Big Huge" extension configuration form.
